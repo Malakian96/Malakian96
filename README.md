@@ -16,8 +16,9 @@
 <hr>
 lorem xd
 
-**Languages and Tools:**  
+ 
 <div align="center">
+  **Languages and Tools:** 
 <code>
   <img 
        height="35" 
