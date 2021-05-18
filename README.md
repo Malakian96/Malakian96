@@ -17,7 +17,7 @@
 lorem xd
 
 **Languages and Tools:**  
-
+<div>
 <code>
   <img 
        height="35" 
@@ -83,6 +83,7 @@ lorem xd
        title="Git" 
        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"
    ></code>
+</div>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Malakian96&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
