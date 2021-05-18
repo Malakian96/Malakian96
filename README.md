@@ -11,7 +11,6 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Malakian96.Malakian96)
 
-<br />
 <hr>
 lorem xd
 
