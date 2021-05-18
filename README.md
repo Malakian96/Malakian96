@@ -17,7 +17,7 @@
 lorem xd
 
  
-<div align="center">
+<div align="center" style="padding:50px">
   <p><b>Languages and Tools:</b></p>
 <code>
   <img 
