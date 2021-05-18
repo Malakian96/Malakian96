@@ -17,7 +17,7 @@
 lorem xd
 
 **Languages and Tools:**  
-<div>
+<div align="center">
 <code>
   <img 
        height="35" 
