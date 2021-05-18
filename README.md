@@ -13,10 +13,7 @@
 
 <a href="https://www.buymeacoffee.com/malakiann" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee"  height="42px" ></a>
 
-<hr>
-lorem xd
-
- 
+<hr> 
 <div align="center">
   <p><b>Languages and Tools:</b></p>
 <code>
