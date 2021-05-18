@@ -8,6 +8,8 @@
 <a href="https://open.spotify.com/playlist/3h0St7EYpAg5ShrU6Gbns5?si=16d41198633b4937">
   <img align="left" alt="Alvaro's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
+<a href="https://www.buymeacoffee.com/malakiann" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Malakian96.Malakian96)
 
@@ -81,9 +83,6 @@ lorem xd
        title="Git" 
        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"
    ></code>
-
-<a href="https://www.buymeacoffee.com/malakiann" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
-
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Malakian96&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
