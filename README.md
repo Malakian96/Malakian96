@@ -12,7 +12,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=Malakian96.Malakian96)
 
 <br />
-
+<hr>
 lorem xd
 
 **Languages and Tools:**  
@@ -29,7 +29,9 @@ lorem xd
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
+<hr>
 If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
+<br>
 
 <a href="https://www.buymeacoffee.com/malakiann" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
