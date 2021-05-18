@@ -8,7 +8,7 @@
 <a href="https://open.spotify.com/playlist/3h0St7EYpAg5ShrU6Gbns5?si=16d41198633b4937">
   <img align="left" alt="Alvaro's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
-<a href="https://www.buymeacoffee.com/malakiann" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="22px" ></a>
+<a href="https://www.buymeacoffee.com/malakiann" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="250" height="42px" ></a>
 
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Malakian96.Malakian96)
