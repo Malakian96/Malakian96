@@ -5,9 +5,7 @@
 <a href="https://www.linkedin.com/in/%C3%A1lvaro-arpal-708620130/">
   <img align="left" alt="Alvaro's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://open.spotify.com/playlist/3h0St7EYpAg5ShrU6Gbns5?si=16d41198633b4937">
-  <img align="left" alt="Alvaro's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a>
+
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Malakian96.Malakian96)
 
