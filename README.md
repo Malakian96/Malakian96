@@ -41,7 +41,7 @@
 
 <h3>Support My Work:</h3>
 <p>
-  <a href="https://www.buymeacoffee.com/malakian">
+  <a href="https://www.buymeacoffee.com/malakiannn">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me a Coffee" />
   </a>
 </p>
